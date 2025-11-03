@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![AI](https://img.shields.io/badge/AI-Minimax-red)
 # Tic-Tac-Toe Deluxe
 
 An **unbeatable** Tic-Tac-Toe game with:
